@@ -1,4 +1,4 @@
-on:
+on:Wrathchyld
   push:
     branches: [ master ]
   pull_request:
